@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a5c4afcdfc7613c42a4d4f12de615e5b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GridPrefab: {fileID: 1771573686485544, guid: 0e3aea6296412d44fb6aa9877cc24ddf,
+      type: 2}
+  - Portal: {fileID: 100004, guid: d0ff625d20dc36a418e2797a892a913a, type: 3}
+  - ARCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
